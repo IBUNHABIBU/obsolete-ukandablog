@@ -6,3 +6,8 @@ Add new user
 
 change passwrd
 
+`passwd damas`
+
+switch user 
+
+`su damas`
