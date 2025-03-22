@@ -11,3 +11,11 @@ change passwrd
 switch user 
 
 `su damas`
+
+show the files
+
+`ls`
+
+show the hidden fies
+
+`ls -a`
