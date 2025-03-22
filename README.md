@@ -24,3 +24,4 @@ show the hidden fies
 
 moving files
 
+`mv style.css stylesheet`
