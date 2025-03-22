@@ -21,3 +21,6 @@ show the hidden fies
 `ls -a`
 
 `ls -al`
+
+moving files
+
