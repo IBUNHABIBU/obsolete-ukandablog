@@ -29,3 +29,7 @@ moving files
 copying a file
 
 `cp style.css stylesheet `
+
+deleting file
+
+`rm filename`
