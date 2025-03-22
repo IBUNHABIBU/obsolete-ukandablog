@@ -19,3 +19,5 @@ show the files
 show the hidden fies
 
 `ls -a`
+
+`ls -al`
