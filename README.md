@@ -4,3 +4,5 @@ Add new user
 
 `adduser damas`
 
+change passwrd
+
